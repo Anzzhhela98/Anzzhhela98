@@ -20,7 +20,7 @@
 <div>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anzzhhela98&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anzzhhela98&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-  <img height="160em" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </div>
 <p align='center'>
   <a href="https://www.linkedin.com/in/anzhela-nurieva-493513207//">
