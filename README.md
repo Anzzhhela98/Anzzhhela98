@@ -16,6 +16,7 @@
 <br>
 
 <div>
+  <img height="160em" src="	https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anzzhhela98&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anzzhhela98&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </div>
