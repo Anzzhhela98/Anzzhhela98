@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A student from Sofia, Bulgaria.
+  A student from Sofia, Bulgaria and High School JavaScript Teacher at @SoftUniSvetlina
 </h3>
 
 ## 🛠 &nbsp;Tech Stack:
