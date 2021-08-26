@@ -8,10 +8,8 @@
 
 ## 🛠 &nbsp;Tech Stack:
 <p align='center'>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   <h3></h3>
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><br /> 
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
- <h3></h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
