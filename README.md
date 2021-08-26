@@ -6,7 +6,7 @@
   A student from Sofia, Bulgaria and High School JavaScript Teacher at SoftUni Svetlina
 </h3>
 
-##                                           🛠 &nbsp;Tech Stack:
+## 🛠 &nbsp;Tech Stack:
 <p align='center'>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -17,7 +17,7 @@
 
 <br>
 
-<div>
+<div align='center'>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anzzhhela98&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anzzhhela98&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </div>
