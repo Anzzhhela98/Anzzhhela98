@@ -6,7 +6,7 @@
   A student from Sofia, Bulgaria.
 </h3>
 
-##### 🛠 &nbsp;Tech Stack:
+## 🛠 &nbsp;Tech Stack:
 <p align='center'>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
