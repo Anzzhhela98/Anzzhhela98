@@ -28,7 +28,7 @@
   <a href="mailto:anzzhhela-nurieva98">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://www.hackerrank.com/anzzhhela98/hackos">
+   <a href="https://www.hackerrank.com/certificates/e31f3d6770bc">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
