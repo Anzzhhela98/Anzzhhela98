@@ -12,22 +12,6 @@
 </p>
 
 <br>
-
-<p align="center">
-<a href="https://github.com/InnerPulse">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InnerPulse&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InnerPulse&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</a>
-</p>
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/innerpulse">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:stoev95pd">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
 --
 <div>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anzzhhela98&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
