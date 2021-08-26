@@ -19,10 +19,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- 🔭 I’m currently working on becoming a C# Web Developer            
+- 🔭 I’m currently working on becoming a Full Stack Web Developer         
 - 🌱 I’m currently learning Software Engineering with C# in SoftUni  
 - 👯 I’m looking to collaborate on Creating Web Applications        
-- 🤔 I’m looking for help with C# language                                      
+- 🤔 I’m looking for help with C# Language and JavaScript                                  
 - 💬 Ask me about Anything...                                     
 - 📫 How to reach me: ... anzzhhela98@gmail.com 📩                 
 - 😄 Pronouns: ... His/Her                                                                      
